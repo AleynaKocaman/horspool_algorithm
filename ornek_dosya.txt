@@ -1,0 +1,1 @@
+Bilgisayar bilimlerinde, verimlilik önemli bir faktördür. Özellikle büyük verilerle çalışırken, algoritmaların verimliliği artırmak büyük önem taşır,verimlilik yaılım için çok önemlidir.
